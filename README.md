@@ -1,4 +1,4 @@
-# Cloud_Attendance_System
+# Cloud-Based Smart Attendance Management System (AWS + Django)
 Cloud based student attendance system
 
 Architecture
